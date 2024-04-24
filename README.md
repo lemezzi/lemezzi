@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <h1>Mohamed Mezzi<h1/></h1>
 <h3 align="center">"Behind every seamless web experience, there's an innovative backend engineer - Follow my journey on Github"</h3>
 
-- 🔭 I’m currently working on **Docsmart(PCD )**
+- 🔭 I’m currently working on **Neptune Project**
 
 - 🌱 I’m currently learning **MERN**
 
