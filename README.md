@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **mohamed.mezzi@ensi-uma.tn**
+- 📫 How to reach me **mohamed.mezzi@ensi-uma.tn
+-  mohamed.mezzi@etu.ec-lyon.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
